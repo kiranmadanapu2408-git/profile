@@ -2,6 +2,10 @@
 I am currently  pursuing  Bachelor of technology <br>4th year <br>I am good at using AI Tools and Prompting<br>
 
 
+## 🚀 Featured Project
+
+[Real-Time AI Voice Chat](https://github.com/kiranmadanapu2408-git/RealtimeVoiceChat) — A real-time voice assistant with streaming speech recognition, LLM responses, and spoken output.
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/LakshmiKiran) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ML Kiran) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/LAKSHMI KIRAN MADANAPU) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kiranmadanapu2408@gmail.com) 
 
